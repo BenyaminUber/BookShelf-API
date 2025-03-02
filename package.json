@@ -1,0 +1,15 @@
+{
+  "name": "bookshelf-api-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/server.js",
+    "lint": "eslint ./"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^20.2.2",
+    "nanoid": "3.x.x",
+    "yarn": "^1.22.19"
+  }
+}
